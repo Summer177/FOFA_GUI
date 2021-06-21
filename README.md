@@ -3,7 +3,15 @@
 ```python
 {"fofa_email":"xxxxxx","fofa_key":"xxxxx"}
 ```
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1624247040582-3cf0b288-18bf-4355-b50a-fef38942928f.png#align=left&display=inline&height=328&margin=%5Bobject%20Object%5D&name=image.png&originHeight=656&originWidth=993&size=47842&status=done&style=none&width=496.5)<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1624247074035-98db0eca-a53e-4406-a1cd-23a9ba84e285.png#align=left&display=inline&height=320&margin=%5Bobject%20Object%5D&name=image.png&originHeight=640&originWidth=997&size=261188&status=done&style=none&width=498.5)<br />导出表格<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1624247197322-91a308aa-ca34-469d-be79-327e2f78e779.png#align=left&display=inline&height=345&margin=%5Bobject%20Object%5D&name=image.png&originHeight=689&originWidth=1062&size=147187&status=done&style=none&width=531)<br />icon_hash功能<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1624247362189-f4e237dd-8588-4e13-82fb-64d978e224dc.png#align=left&display=inline&height=328&margin=%5Bobject%20Object%5D&name=image.png&originHeight=656&originWidth=991&size=212967&status=done&style=none&width=495.5)<br />
+![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1624247040582-3cf0b288-18bf-4355-b50a-fef38942928f.png#align=left&display=inline&height=328&margin=%5Bobject%20Object%5D&name=image.png&originHeight=656&originWidth=993&size=47842&status=done&style=none&width=496.5)<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1624247074035-98db0eca-a53e-4406-a1cd-23a9ba84e285.png#align=left&display=inline&height=320&margin=%5Bobject%20Object%5D&name=image.png&originHeight=640&originWidth=997&size=261188&status=done&style=none&width=498.5)
+
+**导出表格**
+
+![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1624247197322-91a308aa-ca34-469d-be79-327e2f78e779.png#align=left&display=inline&height=345&margin=%5Bobject%20Object%5D&name=image.png&originHeight=689&originWidth=1062&size=147187&status=done&style=none&width=531)**
+
+**icon_hash功能**
+
+![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1624247362189-f4e237dd-8588-4e13-82fb-64d978e224dc.png#align=left&display=inline&height=328&margin=%5Bobject%20Object%5D&name=image.png&originHeight=656&originWidth=991&size=212967&status=done&style=none&width=495.5)<br />
 <br />
 <br />
 
