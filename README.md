@@ -1,5 +1,5 @@
 **更新 V1.2：**<br/>
-**修复系统开启代理后无法获取数据**<br/>
+**修复系统开启代理后无法获取数据**<br/><br/>
 **更新 V1.1：**<br />**1、默认线程数300，默认获取数量1000**<br />**2、修改了图标**<br />**3、添加了鼠标左键双击事件，使用默认浏览器打开URL**<br />
 <br />**工具介绍**<br />基于python3 tkinter 开发的，打包后内存有点大，特别是导入pandas后直接40+M，改为csv，然后用upx压缩后还是有11M<br />~~~QAQ<br />通过fofa api获取资产，进行了存活检测，添加了icon_hash转换功能， 支持备份文件检测，方便获取指定app的源码，进行代码审计。<br />
 <br />**使用方法**<br />将三个文件放在同一目录下<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1624523681215-77453b01-9b0c-4aff-aa00-71da97d7f060.png#clientId=uf227b51d-5d00-4&from=paste&height=99&id=ub890d6f3&margin=%5Bobject%20Object%5D&name=image.png&originHeight=197&originWidth=467&originalType=binary&ratio=2&size=31180&status=done&style=none&taskId=u9d4fed6c-9159-4dd3-a404-47419ff5d01&width=233.5)<br />**fofa.json格式如下：**
