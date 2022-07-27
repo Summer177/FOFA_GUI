@@ -1,3 +1,5 @@
+**更新**<br />**更改fofa url**<br />**​**
+
 **更新V1.3**<br />**优化界面，存活检测改为可选，增加fofa语法帮助**<br />**​**
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1626060360320-e78d7464-b4ce-4280-ab28-0d9c6e41a421.png?x-oss-process=image%2Fresize%2Cw_1239)<br />
 
