@@ -65,7 +65,7 @@ def fofa():
     th=int(comboxlist1.get())
     fields="host,title,ip,port,domain,server"
     query=base64.b64encode(query.encode('utf-8')).decode('utf-8')
-    r=requests.get(url="https://fofa.so/api/v1/search/all?email={}&key={}&fields={}&qbase64={}&size={}".format(fofa_email,fofa_key,fields,query,count),proxies=proxies)
+    r=requests.get(url="https://fofa.info/api/v1/search/all?email={}&key={}&fields={}&qbase64={}&size={}".format(fofa_email,fofa_key,fields,query,count),proxies=proxies)
     data=json.loads(r.text.encode("GBK",'ignore').decode('GBK'))
     # print(data)
     if h1.get():    
